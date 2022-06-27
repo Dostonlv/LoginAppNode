@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.center-div{
+    padding-top:10%;
+}
+
+form{
+    padding: 0 3em;
+}
+#login.title > span{
+    font-size:.8em;
+}
